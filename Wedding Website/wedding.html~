@@ -1,0 +1,61 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset="UTF-8"/>	
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<title>Carlos & Mary</title>
+	<link rel="stylesheet" href="eric-meyer-reset.min.css" type="text/css" media="screen" />
+	<link href="http://font.googleapis.com/css?family=Ubuntu" rel="stylesheet" type="text/css/">
+	<script src="js/modernizr-custom.js"></script>
+	<script src="js/respond.min.js"></script>
+	<!- include external jQuery file but fall back to local file if external one fails to load !->
+	<script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+	<script type=text/javascript">window.jQuery || document.write('<script type="text\/javascript"src="js\/1.7.2.jquery.min"><\/script>')</script>
+
+	<script src="js/prefixfree.min.js"></script>
+	
+
+</head>
+<body>
+	<header>
+		<h1>Mary M. Sturkie & Carlos Martinez-Arraras Unzurrunzaga</h1>
+		<img></img>
+		<nav>
+			<ul>
+				<li><a href="javascript:void(0)">Home</a></li>
+				<li><a href="javascript:void(0)">Event</a></li>
+				<li><a href="javascript:void(0)">Wedding Party</a></li>
+				<li><a href="javascript:void(0)">Travel</a></li>
+				<li><a href="javascript:void(0)">Registry</a></li>
+			</ul>
+		</nav>
+	</header>
+				
+	<section class="blurb">
+		<h2 class="hidden">Carlos & Mary Blurb</h2> 
+		<article class="blurb_image">
+			<a href="pix/ivywild_2.jpg" title="Ivywild"></a>
+				<span class="thumb-screen"></span>
+				<img src="pix/ivywild_2.jpg" alt="Ivywild"/>
+			<article class="blurb">
+				<h3>The Blurb!</h3>
+				<p>Mary and Carlos are soooooo awesome!</p>
+			</article>
+			
+		</article>
+		<div id="lowerLevel">
+			<img src=""></img>
+		</div>
+	</section>
+			
+	<footer>
+		<h2 class="hidden">Our footer</h2>
+		<!-Copyright?Social?!->
+	</footer>
+</body>
+		
+			
+			
+			
+			
+	

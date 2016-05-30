@@ -1,0 +1,41 @@
+body {
+	background: #ffffff;
+	font-family: 'Ubuntu';
+	color: #333333;
+	}
+	
+header {
+	position:relative;
+	width:auto;
+	max-width:900px;
+	margin: 0 auto 20px auto;
+	}
+	
+nav ul {
+	list-style:none;
+	}
+	
+nav ul li{
+	display:block;
+	float:left;
+	padding:3px 15px;
+	}
+	
+nav ul li a {
+	font-family:'Roboto Slab';
+	text-transform:uppercase;
+	transition: all .25s ease;
+	color:#333333; 
+	
+	}
+	
+nav ul li a:hover {
+	color: #ffffff;
+	background: #333333;
+	}
+	
+section.blurb {
+	margin: auto;
+	width: 400px;
+	font-family: 'Droid Serif';
+	}
